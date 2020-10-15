@@ -2,8 +2,8 @@
 
 Full Stack Project :
 
-Frontend : ReactJS
-Backend  : SpringBoot
+Frontend : ReactJS |
+Backend  : SpringBoot |
 DataBase : Mysql
 
 
