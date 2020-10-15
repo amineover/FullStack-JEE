@@ -1,4 +1,9 @@
-# FullStack-JEE
-Full Stack Project #JEE #SpringBoot #ReactJs
+# |-----Gestion du Personnel-----|
+
+Full Stack Project :
+
+Frontend : ReactJS
+Backend  : SpringBoot
+DataBase : Mysql
 
 
