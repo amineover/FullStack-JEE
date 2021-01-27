@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.css'; #these is redicules
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 //import { Redirect } from "react-router";
 import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom";
