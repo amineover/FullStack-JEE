@@ -25,6 +25,10 @@ class CourseDataService {
         //console.log('executed service')
         return axios.post(`${INSTRUCTOR_API_URL}/sauvegSituationDemande`, course);
     }
+     updateSomething(name, id, course) {
+        //console.log('executed service')
+        return axios.post(`${INSTRUCTOR_API_URL}/sauvegSituationDemande`, course);
+    }
 
     createCourse(name, course) {
         //console.log('executed service');
