@@ -98,7 +98,8 @@ public class SalarierController {
 	@Autowired
 	TypeDemandeRepository TypeDemanderep;
 		
-		@PostMapping("/login") 
+		@PostMapping("/login/") 
+	#not been 
 		 public Salarier sauvegUser(@RequestBody Salarier salarier) {	
 			 
 			Salarier user;
