@@ -27,6 +27,7 @@ public class PaieApplication  {
 		SpringApplication.run(PaieApplication.class, args);
      
    }
+	#test
 	
 	@Bean
     public WebMvcConfigurer corsConfigurer() {
